@@ -1,0 +1,1 @@
+[{"service": "aoai-eastus", "resource_group": "rg-ai-openai", "deployment": "gpt-4o-mini-global", "model": "gpt-4o-mini", "sku": "GlobalStandard"}, {"service": "aoai-eastus", "resource_group": "rg-ai-openai", "deployment": "gpt-4o-global", "model": "gpt-4o", "sku": "GlobalStandard"}]
