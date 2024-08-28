@@ -42,4 +42,4 @@ Unusual deployment gpt-4o-global in rg-ai-openai: model gpt-4o sku GlobalStandar
 
 
 ## Disclaimer
-> This repository is not affiliated with OpenAI or Microsoft. The information provided here is based on publicly available information and is subject to change. Author is not responsible for any misuse of the information provided here.
+> This repository is not affiliated with OpenAI or Microsoft. The information provided here is based on publicly available information and is subject to change. Author is not responsible for any misuse of the information provided here. You are solely responsible for any use and results you obtain with this script.
